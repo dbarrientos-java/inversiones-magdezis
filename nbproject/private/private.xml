@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/MainApp.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/model/User.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/repository/userRepository.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/service/UserService.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/util/sceneManager.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/config/Credentials.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/config/DataBaseConnection.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/controller/UserController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/dto/request/LoginDtoRequest.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/2023591/inversiones-magdeziss/src/main/java/com/magdezis/inversiones/magdeziss/dto/response/LoginDtoResponse.java</file>
+        </group>
+    </open-files>
+</project-private>
